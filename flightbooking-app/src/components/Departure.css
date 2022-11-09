@@ -1,0 +1,21 @@
+.combobox{
+    width: max-content;
+    padding-left: 5rem;
+    border-radius: 0.5rem;
+    height: 4rem;
+}
+
+.error{
+    border-color: rgb(239 68 68);
+    --tw-ring-color: rgb(239 68 68);
+}
+
+.out{
+    position: relative;
+}
+
+.text{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: x-large;
+}
